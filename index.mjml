@@ -22,7 +22,7 @@
         <!-- Image header -->
         <mj-section background-color="#000">
             <mj-column width="100%">
-                <mj-image padding="15px 0" width="200px" src="img/logo/logo.png" href="http://www.s-l.co.rs/"></mj-image>
+                <mj-image padding="15px 0" width="200px" src="http://www.s-l.co.rs/sl/img/SL_logo.svg" href="http://www.s-l.co.rs/"></mj-image>
             </mj-column>
         </mj-section>
         <!-- /Image header -->
@@ -48,7 +48,7 @@
         <!-- Hero Image -->
         <mj-section>
             <mj-column width="100%">
-                <mj-image href="http://www.s-l.co.rs/aktuelnosti/dzenifer-lopez-zastitno-lice-brenda-guess/5" src="img/hero-img/pic-1.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/aktuelnosti/dzenifer-lopez-zastitno-lice-brenda-guess/5" src="http://www.s-l.co.rs/images/posts/pic-1.jpg"></mj-image>
             </mj-column>
         </mj-section>
         <!-- /Hero Image -->
@@ -75,7 +75,7 @@
         <mj-section background-color="#fff" padding-bottom="40px">
         
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="img/satovi/sat-1.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="http://www.s-l.co.rs/images/products/thumbnails/gc-ladybelle-1723.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>Gc</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>Y28003L1</p></mj-text>
                 <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
@@ -83,23 +83,23 @@
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="img/satovi/sat2.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1724" src="http://www.s-l.co.rs/images/products/thumbnails/gc-ladybelle-1724.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>Gc</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>Y28001L1</p></mj-text>
-                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
+                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1724" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
                 <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>42,000.00 RSD<p></mj-text>
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="img/satovi/sat3.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1722" src="http://www.s-l.co.rs/images/products/thumbnails/gc-structura-1722.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>Gc</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>Y28004L2</p></mj-text>
-                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
+                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1722" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
                 <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>39,000.00 RSD<p></mj-text>
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1711" src="img/satovi/sat4.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1711" src="http://www.s-l.co.rs/images/products/thumbnails/royal-london-1711.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>ROYAL LONDON</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>21226-01</p></mj-text>
                 <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1711" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">ROYAL LONDON</mj-button>
@@ -107,23 +107,23 @@
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1711" src="img/satovi/sat4.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1712" src="http://www.s-l.co.rs/images/products/thumbnails/royal-london-1712.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>ROYAL LONDON</p></mj-text>
-                <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>21226-01</p></mj-text>
-                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1711" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">ROYAL LONDON</mj-button>
-                <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>10,590.00 RSD<p></mj-text>
+                <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>21211-05</p></mj-text>
+                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1712" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">ROYAL LONDON</mj-button>
+                <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>13,790.00 RSD<p></mj-text>
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1714" src="img/satovi/sat6.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1710" src="http://www.s-l.co.rs/images/products/thumbnails/royal-london-1710.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>ROYAL LONDON</p></mj-text>
-                <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>21199-02</p></mj-text>
-                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1714" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">ROYAL LONDON</mj-button>
-                <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>9,490.00 RSD<p></mj-text>
+                <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>21226-02</p></mj-text>
+                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/royal-london/1710" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">ROYAL LONDON</mj-button>
+                <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>12,690.00 RSD<p></mj-text>
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="img/satovi/sat-1.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="http://www.s-l.co.rs/images/products/thumbnails/gc-ladybelle-1723.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>Gc</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>Y28003L1</p></mj-text>
                 <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
@@ -131,18 +131,18 @@
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="img/satovi/sat2.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1724" src="http://www.s-l.co.rs/images/products/thumbnails/gc-ladybelle-1724.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>Gc</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>Y28001L1</p></mj-text>
-                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
+                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1724" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
                 <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>42,000.00 RSD<p></mj-text>
            </mj-column>
 
            <mj-column width="33.33%">
-                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" src="img/satovi/sat3.jpg"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1722" src="http://www.s-l.co.rs/images/products/thumbnails/gc-structura-1722.jpg"></mj-image>
                 <mj-text align="center" font-size="14px" padding-bottom="5px"><p>Gc</p></mj-text>
                 <mj-text text-transform="uppercase" color="gray" font-size="14px" align="center" padding-bottom="0px"><p>Y28004L2</p></mj-text>
-                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1723" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
+                <mj-button href="http://www.s-l.co.rs/shop/proizvodi/satovi/gc-ladybelle/1722" background-color="transparent" color="#000" font-size="14px" font-weight="500" font-family="Roboto, sans-serif">Gc LADYBELLE</mj-button>
                 <mj-text text-transform="uppercase" font-size="14px" font-weight="300" align="center" color="#ed1c24"><p>39,000.00 RSD<p></mj-text>
            </mj-column>
 
@@ -157,11 +157,11 @@
             </mj-column>
 
             <mj-column width="12%">
-               <mj-image padding-bottom="20px" src="img/social/fb-icon.png" width="27px"></mj-image>
+               <mj-image padding-bottom="20px" src="http://www.s-l.co.rs/images/posts/fb-icon.png" width="27px"></mj-image>
             </mj-column>
 
             <mj-column width="12%">
-               <mj-image padding-bottom="20px" src="img/social/insta-icon.png" width="27px"></mj-image>
+               <mj-image padding-bottom="20px" src="http://www.s-l.co.rs/images/posts/insta-icon.png" width="27px"></mj-image>
             </mj-column>
 
         </mj-section>
@@ -171,7 +171,7 @@
         <mj-section background-color="#000" border-bottom="1px solid #33333b">
             
             <mj-column width="33.33%">
-                <mj-image src="img/logo/logo.png" width="150px" padding-top="30px"></mj-image>
+                <mj-image src="http://www.s-l.co.rs/sl/img/SL_logo.svg" width="150px" padding-top="30px"></mj-image>
             </mj-column>
 
             <mj-column width="66.66%">
