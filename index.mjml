@@ -183,7 +183,7 @@
         <mj-section>
 
         <mj-column background-color="#000" width="100%">
-                <mj-text line-height="normal" padding-bottom="25px" padding-top="25px"  font-size="11px" font-weight="400" color="#fff" align="center"><p>Dobili ste ovu poruku jer ste se prijavili na mejling listu na sajtu <a href="http://www.s-l.co.rs/" target="_blank" color="white"><span>www.s-l.co.rs</span></a>. Da biste se odjavili sa mejling liste sajta S&L, kliknite <a href="" target="_blank"><span>ovde</span></a>.</p></mj-text>
+                <mj-text line-height="normal" padding="25px 15px"  font-size="11px" font-weight="400" color="#fff" align="center"><p>Dobili ste ovu poruku jer ste se prijavili na mejling listu na sajtu <a href="http://www.s-l.co.rs/" target="_blank" color="white"><span>www.s-l.co.rs</span></a>. Da biste se odjavili sa mejling liste sajta S&L, kliknite <a href="" target="_blank"><span>ovde</span></a>.</p></mj-text>
         </mj-column>
 
         </mj-section>
