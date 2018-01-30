@@ -2,7 +2,6 @@
 <mj-head>
         <mj-title>s&l</mj-title>
         <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700"></mj-font>
-        <mj-font name="Rammetto One" href="https://fonts.googleapis.com/css?family=Rammetto+One"></mj-font>
         <mj-attributes>
             <mj-all padding="0" />
             
