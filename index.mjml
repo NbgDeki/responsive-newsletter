@@ -174,7 +174,7 @@
         <mj-section border-top="1px solid #000" padding-top="20px">
             
             <mj-column width="100%">
-                <mj-text padding-bottom="20px"><h5>Pratite nas na</h5></mj-text>
+                <mj-text padding-bottom="20px" font-size="18px" font-family="Roboto, sans-serif" align="center">Pratite nas na</mj-text>
             </mj-column>
 
         </mj-section>
@@ -196,7 +196,7 @@
         <mj-section background-color="#000" border-bottom="1px solid #33333b">
             
             <mj-column width="33.33%">
-                <mj-image src="http://www.s-l.co.rs/sl/img/SL_logo.png" width="150px" padding-top="30px"></mj-image>
+                <mj-image href="http://www.s-l.co.rs/" src="http://www.s-l.co.rs/sl/img/SL_logo.png" width="150px" padding-top="30px"></mj-image>
             </mj-column>
 
             <mj-column width="66.66%">
